@@ -4,7 +4,7 @@ class LogicalOperators {
 
         // age >= 18
         // age <= 40
-        // Above is logical AND Operator
+        // Below is logical AND Operator
 
         //System.out.println(age >= 18 && age <= 40);
 //---------------------------------------------------------------
